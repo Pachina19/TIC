@@ -1,3 +1,4 @@
 Cada carpeta corresponde a cada instancia, dentro de cada una de ellas se tiene dos subcarpetas
 La carpeta Debug contiene lo que aparece en la consola cuando se corre el modelo.
-La otra carpeta es la instancia lista para correrse en el OpenLinTim, contiene ya los resultados de la planificación de líneas, además de Stop, Demand, Od, Pool, Pool-Cost y Load.
+La otra carpeta contiene los datos que se usan para correr el modelo como OD, demand, Stop, Edge, ..., además
+se ceunta con la solucion del line-planing
